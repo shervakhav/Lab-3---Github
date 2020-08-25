@@ -1,0 +1,27 @@
+/*
+ * NAME  :  Shervin Akhavan
+ * LAB   : LAB 3
+ * DATE  : 8/24/2020
+ * CLASS : CS1C 
+ */
+ 
+#include <iostream>
+using namespace std;
+ 
+/*******************************************************************************
+ * LAB 3 - Hello World in C++
+ *******************************************************************************/
+  
+int hello2Function(string name2);
+
+int main()
+{
+	string name2 = "your name2";
+  hello2Function(name2);
+  
+  return 0;
+}
+
+  
+ 
+ 
